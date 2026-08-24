@@ -1,0 +1,8 @@
+{
+  "alert_type": "AUTHENTICATION_ALERT",
+  "source_ip": "203.0.113.45",
+  "destination": "PROD-SERVER-01",
+  "username": "test-user",
+  "timestamp": "2026-08-24T12:00:00Z",
+  "message": "Multiple failed authentication attempts followed by a successful login to a production server."
+}
